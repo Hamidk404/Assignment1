@@ -21,3 +21,16 @@ int main()
 
 	return 0;
 }
+
+/*The below code is added by Dhiren Rana*/
+
+
+#include < stdio.h >
+  int main() {
+    char c;
+
+    for (c = 'A'; c <= 'Z'; ++c)
+      printf("%c ", c);
+
+    return 0;
+  }
